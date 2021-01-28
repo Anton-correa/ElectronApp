@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^4.1.4",
+    "electron": "^9.4.0",
     "electron-packager": "^13.1.1",
     "gulp": "^4.0.1",
     "gulp-browserify": "^0.5.1",
